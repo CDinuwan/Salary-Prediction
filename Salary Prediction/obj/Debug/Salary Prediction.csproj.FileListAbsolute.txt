@@ -1,0 +1,15 @@
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Salary Prediction.exe.config
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Salary Prediction.exe
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Salary Prediction.pdb
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.csprojAssemblyReference.cache
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\MainWindow.g.cs
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\App.g.cs
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction_MarkupCompile.cache
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction_MarkupCompile.lref
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\MainWindow.baml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.g.resources
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary_Prediction.Properties.Resources.resources
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.csproj.GenerateResource.cache
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.csproj.CoreCompileInputs.cache
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.exe
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.pdb
