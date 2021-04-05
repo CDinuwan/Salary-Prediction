@@ -21,5 +21,45 @@
             <RowDefinition Height="auto"/>
             <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="1"
+            Text="Salary Prediction"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.ColumnSpan="5"
+            FontSize="24">
+        </TextBlock>
+        <TextBlock
+            Grid.Row="2"
+            Grid.Column="1"
+            Text="Years of Expirience">
+        </TextBlock>
+        <TextBox
+            Grid.Row="3"
+            Grid.Column="2"
+            Margin="10 0 0 0"
+            MinWidth="30"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.ColumnSpan="1"
+            x:Name="yearsOfExpirience">
+        </TextBox>
+        <Button
+            Grid.Row="3"
+            Grid.Column="1"
+            VerticalAlignment="Bottom"
+            HorizontalAlignment="Center"
+            Content="Predict"
+            Click="Button_Click" Margin="28,0">
+        </Button>
+        <TextBlock
+            Grid.Row="2"
+            Grid.Column="2"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Left"
+            Margin="10 0 0 0"
+            x:Name="result">
+        </TextBlock>
     </Grid>
 </Window>

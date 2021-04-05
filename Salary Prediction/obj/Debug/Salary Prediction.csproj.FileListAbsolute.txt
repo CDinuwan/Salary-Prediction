@@ -13,3 +13,49 @@ C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\S
 C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.csproj.CoreCompileInputs.cache
 C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.exe
 C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.pdb
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\LdaNative.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\CpuMathNative.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Buffers.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.CodeDom.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Memory.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Threading.Channels.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Buffers.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Memory.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Threading.Channels.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction_Content.g.cs
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\obj\Debug\Salary Prediction.csproj.CopyComplete
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Caliburn.Micro.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Caliburn.Micro.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Chanuka Dinuwan\Desktop\Salary Prediction\Salary Prediction\bin\Debug\Caliburn.Micro.Platform.Core.xml

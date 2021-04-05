@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Microsoft.ML;
+using Microsoft.ML.Data;
 
 namespace Salary_Prediction
 {
@@ -23,6 +25,22 @@ namespace Salary_Prediction
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var context = new MLContext();
+
+            var model = context.Model.Load("./MLModel/salary-model.zip",out DataViewSchema inputSchema);
+
+            var predictionEngine = context.Model.CreatePredictionEngine<Models.SalaryData, Models.SalaryPrediction>(model, inputSchema: inputSchema);
+
+            var prediction = predictionEngine.Predict(new Models.SalaryData
+            {
+                YearsExperience=float.Parse(yearsOfExpirience.Text)
+            });
+
+            result.Text = $"Predicted salary is {prediction.PredictedSalary.ToString("c")}";
         }
     }
 }
